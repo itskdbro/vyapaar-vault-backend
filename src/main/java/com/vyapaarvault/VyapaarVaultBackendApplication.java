@@ -8,6 +8,7 @@ public class VyapaarVaultBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VyapaarVaultBackendApplication.class, args);
+		System.out.println("Started Vyappar Vault Application");
 	}
 
 }
